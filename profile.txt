@@ -1,3 +1,8 @@
 Profile Page
 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
 Amet soluta, nesciunt cumque, accusantium omnis unde?
+
+- HTML
+- CSS
+- Javascript
+- PHP
