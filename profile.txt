@@ -8,5 +8,5 @@ Amet soluta, nesciunt cumque, accusantium omnis unde?
  ^ Frameworks Angular
  ^ Frameworks React
 - PHP
- ^ Frameworks CI
  ^ Frameworks Laravel
+- Phyton
