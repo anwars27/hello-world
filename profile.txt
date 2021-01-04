@@ -5,6 +5,8 @@ Amet soluta, nesciunt cumque, accusantium omnis unde?
 - HTML
 - CSS
 - Javascript
+ ^ Frameworks Angular
+ ^ Frameworks React
 - PHP
  ^ Frameworks CI
  ^ Frameworks Laravel
