@@ -7,6 +7,5 @@ Amet soluta, nesciunt cumque, accusantium omnis unde?
 - Javascript
  ^ Frameworks Vue
 - PHP
- ^ Frameworks CI
  ^ Frameworks Laravel
 - Phyton
